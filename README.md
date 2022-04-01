@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning programming languages
 - 💞️ I’m looking to collaborate on solving Cs50 problem sets.
-- 📫 How to reach me is via my whatsapp through this number (00971501881061)
+- 📫 How to reach me is via my whatsapp, and here is my number (00971501881061)
 
 <!---
 mahmoudmahdi550/mahmoudmahdi550 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
